@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sparsh Jaiswal
+# 👋 Hi, I'm Sparsh  Jaiswal
 **A passionate IT Student || Full-Stack Developer || Python & Java Enthusiast from India**
 
 Email Me 👉 📧 **sparshj9022@gmail.com** For Collaboration/Projects or Anything Else. 😊
